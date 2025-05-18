@@ -2,7 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Window extends JFrame {
-    // Toolkit.getDefaultToolkit().getScreenSize()
     Dimension screenSize;
     Visualizer visualizer;
     public Window(int w, int h) {
